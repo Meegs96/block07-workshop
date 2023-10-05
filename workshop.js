@@ -7,10 +7,6 @@ const message = "You have received this message because you have been chosen to 
 // when i use the keyword message, the message needed will appear
 
 
-// create pop up box that says the messaged required
-
-
-
 let lockNumber1 = (400000/4000/10)
 console.log(lockNumber1)
 //expcted outcome = 10
